@@ -1,4 +1,4 @@
-# A small dashboard
+# A simple dashboard
 
 ## Technology used:
 
