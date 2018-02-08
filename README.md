@@ -1,6 +1,8 @@
 # A small dashboard
 
-It is built using Reactjs,React-router,Firebase and Material-ui
+## Technology used:
+
+Reactjs,React-router,Firebase and Material-ui
 
 ### Getting Started
 
